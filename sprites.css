@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.socialMediaList{margin: 0px; padding: 0px;}
+.socialMediaList li{background-image: url(iconset.jpg); display: block; width: 38px; height: 38px; display: inline-block;}
+.facebook{background-position: -82px 0;}
+.youtube{background-position: -246px 0;}
+.pintrest{background-position: -205px -73px;}
+.itunes{background-position: -123px -148px;}
